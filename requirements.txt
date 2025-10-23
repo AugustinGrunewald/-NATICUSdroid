@@ -1,0 +1,6 @@
+# Core data processing libraries
+pandas~=1.5.0
+numpy~=1.26.0
+
+# ML libraries
+scikit-learn~=1.4.0
