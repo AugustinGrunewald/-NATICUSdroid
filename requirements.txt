@@ -2,5 +2,8 @@
 pandas~=1.5.0
 numpy~=1.26.0
 
+# Plotting libraries
+matplotlib~=3.8.0
+
 # ML libraries
 scikit-learn~=1.4.0
