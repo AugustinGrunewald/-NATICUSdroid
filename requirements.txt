@@ -4,6 +4,7 @@ numpy~=1.26.0
 
 # Plotting libraries
 matplotlib~=3.8.0
+seaborn~=0.13.2
 
 # ML libraries
 scikit-learn~=1.4.0
